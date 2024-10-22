@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulus--julien) 
 
@@ -14,5 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JulienPAU&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
