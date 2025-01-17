@@ -21,7 +21,7 @@ Je suis actuellement en recherche d'un emoloi après un stage où j'ai enrichis 
 
 
 
----
+--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
