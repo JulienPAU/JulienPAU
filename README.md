@@ -16,11 +16,13 @@ Je suis actuellement en recherche d'un emoloi après un stage où j'ai enrichis 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JulienPAU&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienPAU&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JulienPAU&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+ <!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JulienPAU&theme=monokai&no-frame=false&no-bg=true&margin-w=4) -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JulienPAU&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=JulienPau&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
