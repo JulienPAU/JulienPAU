@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-Je suis actuellement en recherche d'un emoloi après un stage où j'ai enrichis mes connaissances sur le développement et plus particulièrement NextJs et prisma.<br><br>Sensible à l'évolution, je fais constamment de la veille technologique.<br><br>Je suis toujours enthousiaste et motivé à l'idée d'apprendre de nouvelles technologies afin d'approfondir mes connaissances actuelles. <br><br>
+Je suis actuellement en recherche d'un emploi après un stage où j'ai enrichis mes connaissances sur le développement et plus particulièrement NextJs et prisma.<br><br>Sensible à l'évolution, je fais constamment de la veille technologique.<br><br>Je suis toujours enthousiaste et motivé à l'idée d'apprendre de nouvelles technologies afin d'approfondir mes connaissances actuelles. <br><br>
 ## [Lien vers mon portfolio](https://julienpau.github.io/my_portfolio/)
 
 
