@@ -1,7 +1,13 @@
 <div align="center">
   
 # 💫 About Me:
-Je suis actuellement en recherche d'un emploi après un stage où j'ai enrichis mes connaissances sur le développement et plus particulièrement NextJs et prisma.<br><br>Sensible à l'évolution, je fais constamment de la veille technologique.<br><br>Je suis toujours enthousiaste et motivé à l'idée d'apprendre de nouvelles technologies afin d'approfondir mes connaissances actuelles. <br><br>
+🎯 Développeur web full stack — j’aime créer des projets utiles, clairs et bien conçus.
+
+Passionné par le code, je construis des outils sur mesure et des interfaces soignées. J’ai lancé Les Petits Cadrans, un site collaboratif pour les amateurs de montres. Un projet perso où je fais le lien entre technique, contenu et expérience utilisateur.
+
+Je travaille avec rigueur, curiosité et sens du détail — des réflexes hérités de mes années en horlogerie, que j’ai naturellement transposés dans le développement.
+
+👉 Je cherche à rejoindre une équipe engagée… ou à construire votre site web si vous avez un projet.. <br><br>
 ## [Lien vers mon portfolio](https://julienpau.github.io/my_portfolio/)
 
 
